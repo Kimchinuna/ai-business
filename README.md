@@ -1,2 +1,2 @@
 # Smart Contracts
-Getting started with smart contracts and the Solidity language.
+Getting started with Smart Contracts and the Solidity language.
