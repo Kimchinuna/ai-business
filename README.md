@@ -1,2 +1,2 @@
-# ai-business
-Artificial intelligence application in marketing.
+# Smart Contracts
+Getting started with smart contracts and the Solidity language.
